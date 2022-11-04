@@ -1,0 +1,8 @@
+# Principais comandos de Git
+-git config: definir valores de configuração específicos do usuário como e-mail, nome de usuário e formato de arquivo etc
+-git init: criar um novo repositório GIT
+-git add: adicionar arquivos ao índice
+-git clone: usado para fins de verificação de repositório
+-git commit: para confirmar as alterações na cabeça
+-git status: exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados
+-git push: envia as alterações feitas para o ramo mestre do repositório remoto associado ao diretório de trabalho
