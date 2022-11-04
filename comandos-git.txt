@@ -6,3 +6,6 @@
 -git commit: para confirmar as alterações na cabeça
 -git status: exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados
 -git push: envia as alterações feitas para o ramo mestre do repositório remoto associado ao diretório de trabalho
+-git checkout: pode ser usado para criar ramos ou alternar entre eles
+-git remote: permite que um usuário se conecte a um repositório remoto
+
